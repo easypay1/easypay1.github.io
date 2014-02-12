@@ -63,17 +63,17 @@ header h1,
 .payoff h1,
 .details .carousel,
 .social a:hover{
-	color: #0bf397;
+	color: black;
 }
 
 .features p{
-	color: #06b872;
+	color: black;
 }
 
 /*---- Background ----*/
 .features,
 .detail .carousel-indicators .active {
-	background: #0bf397;	
+	background: black;	
 }
 	
 
